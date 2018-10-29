@@ -1,0 +1,7 @@
+#!/bin/bash
+JAVA_HOME=/usr/lib/jvm/java-10-oracle
+JAVA=$JAVA_HOME/bin/java
+export JAVA JAVA_HOME
+PATH=$JAVA_HOME/bin:$PATH
+export PATH
+java -Xmx4096m -jar ij.jar

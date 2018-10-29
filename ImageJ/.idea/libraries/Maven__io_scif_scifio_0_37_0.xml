@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Maven: io.scif:scifio:0.37.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/scif/scifio/0.37.0/scifio-0.37.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/scif/scifio/0.37.0/scifio-0.37.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
