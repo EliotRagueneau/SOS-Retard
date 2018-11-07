@@ -10,7 +10,6 @@
     <content url="file://$MODULE_DIR$/plugins">
       <sourceFolder url="file://$MODULE_DIR$/plugins" type="java-resource" />
     </content>
-    <orderEntry type="library" exported="" name="ij" level="project" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
